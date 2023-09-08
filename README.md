@@ -1,1 +1,1 @@
-# https://cotools.github.io/gitnetdisk/
+# `[gitnetdisk/](https://cotools.github.io/gitnetdisk/)
